@@ -95,7 +95,6 @@ Let's see all the interesting commands:
 8\. slmgr-dr:
 
 
-
 * To check whether your window's licence is expired or your window is pirated or not use-->slmgr -dli
 
 9\. winver \& ver:
@@ -105,3 +104,4 @@ Let's see all the interesting commands:
 10\. Exit: 
 
 * To exit form cmd simply use-->exit
+
