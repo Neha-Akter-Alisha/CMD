@@ -1,0 +1,35 @@
+🔹 5. Developer-Specific Commands
+
+Many developers use CMD to compile, run, or manage projects.
+
+Command       	                                        Use
+where <program>	                                        Find location of an installed program (e.g., where python).
+assoc .ext	                                            Shows which program opens a file type (useful for fixing wrong associations).
+attrib +r -h <file>	                                    Change file attributes (readonly, hidden, etc.).
+path	                                                  Shows system PATH variable (important for compilers like Java, Python, Node.js).
+setx PATH "%PATH%;C:\path\to\bin"	                      Add something to PATH permanently.
+fc file1 file2	                                        Compare two files line by line.
+find "text" file.txt	                                  Search for text inside a file.
+choco install <package>	(if Chocolatey is installed)    Install software from CMD.
+
+
+🔹 6. Advanced Tricks
+
+&& → Run multiple commands in sequence (e.g., cd project && dir).
+
+> → Redirect output to a file (e.g., dir > files.txt).
+
+>> → Append output to a file.
+
+| → Pipe output into another command (e.g., dir | find "test").
+
+
+🔹 For coders, the most important are:
+
+* cd, dir, mkdir, del, move, copy, notepad (daily navigation).
+
+* path, where, setx (compiler setup).
+
+* ping, ipconfig, nslookup, netstat (network debugging).
+
+* tasklist, taskkill (process handling).
