@@ -38,3 +38,5 @@ As a coder, you’ll often create and manage project files.
 ⦁	ren oldname.txt newname.txt → Rename a file.
 
 ⦁	tree → Shows directory structure in a tree format.
+
+⦁type nul>filename.filextension(exe,txt,html etc) → To create any type of files
