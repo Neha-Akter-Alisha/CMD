@@ -1,0 +1,40 @@
+1. Basics & Navigation
+
+⦁	These are the first commands you must master:
+
+⦁	cls → Clears the screen.
+
+⦁	dir → Lists files & folders in the current directory.
+
+⦁	cd foldername → Move into a folder.
+
+⦁	cd .. → Go back one directory.
+
+⦁	cd\ → Jump to the root directory.
+
+⦁	echo Hello → Prints text to the screen.
+
+⦁	exit → Closes CMD.
+
+⦁	help → Shows available commands.
+
+⦁	command /? → Shows help for a specific command (e.g., dir /?).
+
+
+2. File & Folder Management
+
+As a coder, you’ll often create and manage project files.
+
+⦁	mkdir project → Make a new folder named project.
+
+⦁	rmdir project → Delete an empty folder.
+
+⦁	del file.txt → Delete a file.
+
+⦁	copy file1.txt file2.txt → Copy a file.
+
+⦁	move file.txt D:\backup\ → Move a file to another folder.
+
+⦁	ren oldname.txt newname.txt → Rename a file.
+
+⦁	tree → Shows directory structure in a tree format.
