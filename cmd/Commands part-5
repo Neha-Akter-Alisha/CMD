@@ -1,0 +1,30 @@
+🔹7. Git & Compiler Related (Useful for Projects)
+
+When coding, you’ll often run compilers/interpreters via CMD:
+
+* python file.py → Run Python file.
+
+* javac Main.java → Compile Java file.
+
+* java Main → Run compiled Java program.
+
+* node app.js → Run Node.js app.
+
+* git --version → Check Git installation.
+
+* git clone repo_url → Clone GitHub repository.
+
+* git status → Check Git project status.
+
+
+🔹8. Advanced (For Power Users & Debugging)
+
+* fc file1.txt file2.txt → Compare two files.
+
+* find "keyword" file.txt → Search for keyword in file.
+
+* attrib file.txt → Show file attributes (hidden, read-only).
+
+* powercfg /batteryreport → Generate battery report (if on laptop).
+
+* sfc /scannow → Scan system files for corruption.
