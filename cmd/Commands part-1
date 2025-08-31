@@ -1,49 +1,26 @@
 CMD command also known as DOS command. DOS full form is Disk Operating System. Ms dos => Microsoft disk operating system / CMD / command prompt / CLI of windows. For users to interact with a computer operating system or software, there are two distinct methods. They are:
 
-
-
 1\) Command Line Interface (CLI):
-
-
 
 A text-based interface where users interact with the system by typing commands into a terminal or console window.
 
-
-
 2\) Graphical User Interface (GUI):
-
-
 
 A visual interface that allows users to interact with the system through graphical elements such as windows, icons, menus, and buttons.
 
 
-
-
-
 How to open Command Prompt in windows. There are 2 ways:
-
-
 
 1. By simply write cmd in the search button in your laptop and then click enter.
 
-
-
 2\. By clicking (windows button + R) at the same time. You will get run pop up on your left and write cmd then click enter.
 
-
-
-Note: 
-
-
+Note:
 
 * If you open cmd without Run as administrator, you can work with a user.
 * If you open cmd with Run as administrator, you will have all the access to privileged activities. In short you can be a super user and can change anything you like.
 
-&nbsp; 
-
 Let's see all the interesting commands:
-
-
 
 1. Color:
 
@@ -51,49 +28,33 @@ Let's see all the interesting commands:
 * Then press any key and exit.
 * Example: Then write--> color A( As A code is used for Light Green).
 
-
-
 2\. Title: 
 
 * To change the title of Administrator, you can use--> title Neha(Here Neha  is the new title name I give to my administrator. You can give any name you want).
-
-
 
 3\. Prompt:
 
 * To change our directory from C:\\Windows\\System32> to Neha(or any given name you want) we can use--> prompt Neha.
 * Example: I/P--> C:\\Windows\\System32>prompt Neha.
-
-&nbsp;           O/P-->Neha
-
-
+           O/P-->Neha
 
 4\. Systeminfo:  
 
 * To get your system information you can use-->systeminfo
 
-
-
 5\. Close:
 
 * To fresh or close your previous commands you can use-->cls
-
-
 
 6\. Time:
 
 * To see the current time and set a new time use -->time
 
-
-
 7\. Date:
 
 * To see the current date and set a new date use -->date
 
-
-
 8\. slmgr-dr:
-
 
 * To check whether your window's licence is expired or your window is pirated or not use-->slmgr -dli
 
