@@ -1,0 +1,31 @@
+3. System Info & Useful Checks
+
+* systeminfo → Shows detailed system info (CPU, RAM, OS version).
+
+* hostname → Shows your computer’s name.
+
+* ver → Shows Windows version.
+
+* tasklist → Shows all running processes.
+
+* taskkill /IM notepad.exe /F → Force kill Notepad (or any program).
+
+* echo %USERNAME% → Shows your username.
+
+* echo %CD% → Shows your current directory.
+
+* set → Lists environment variables (useful for coding).
+
+4. Networking (For Coders & Web Devs)
+
+When working on servers, APIs, or debugging network issues:
+
+* ipconfig → Shows your IP address & network details.
+
+* ping google.com → Checks if you can reach a website.
+
+* tracert google.com → Shows path packets take to a site.
+
+* netstat -an → Shows open ports & connections.
+
+* nslookup google.com → Shows DNS details of a site.
